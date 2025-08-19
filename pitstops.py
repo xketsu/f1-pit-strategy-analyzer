@@ -4,8 +4,6 @@ F1 Pit Strategy Analyzer
 Visualizes tire strategies for Formula 1 races from the 2025 season.
 Shows color-coded tire compound usage across race distance for each driver.
 
-Author: Efe
-Date: August 2025
 """
 
 from matplotlib import pyplot as plt
