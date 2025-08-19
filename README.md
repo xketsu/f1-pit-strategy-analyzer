@@ -4,7 +4,7 @@ A Python-based Formula 1 pit strategy visualization tool that analyzes tire stra
 
 ## Features
 
-- **Interactive Race Selection**: Choose from 14 races of the 2025 F1 season
+- **Interactive Race Selection**: Choose a Grand Prix from 2025 season so far
 - **Tire Strategy Visualization**: Color-coded tire compounds (Soft, Medium, Hard, Intermediate, Wet)
 - **Driver Performance**: Shows strategies sorted by finish position
 - **Error Handling**: Robust input validation for race selection
